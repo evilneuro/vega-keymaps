@@ -1,0 +1,7 @@
+T:Ant Attack
+F:ANTATTCK.tap
+M:48
+#P: no pokes for this one
+K:;V ;Z ;M ;SS ;C ;S ;G ;B ;D ;F ;G ;0 ;P ;EN ;SP ;0 ;P ;EN ;SP ;1
+D:;Forward;{N/A};Turn Left;Turn Right;Jump;Short Bomb;Girl;Boy;Medium Bomb;Long Bomb;Extra Long Bomb;View 1;View 2;View 3;View 4;View 1;View 2;View 3;View 4;Suicide #
+E:1,1
