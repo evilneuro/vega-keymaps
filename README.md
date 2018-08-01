@@ -7,4 +7,6 @@ The filename convention under the `keymaps` directory is `zxdb id filled to leng
 
 The filename field in each zxk file would need modified to match whatever was being loaded onto SD card, but this can possibly be mitigated by using a generator with these files as templates.
 
+Further discussion of keymap format and usage can be found in `KEYMAPS.md`
+
 Feel free to fork and PR any changes or additions, and we can start building these out.  Please ensure any content provided is not of commercial origin so as to avoid any conflicts of interest or unnecessary legal issues.
